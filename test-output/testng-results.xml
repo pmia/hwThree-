@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-30T18:40:10 EST" name="Default suite" finished-at="2023-12-30T18:40:23 EST" duration-ms="13592">
+    <groups>
+    </groups>
+    <test started-at="2023-12-30T18:40:10 EST" name="Default test" finished-at="2023-12-30T18:40:23 EST" duration-ms="13592">
+      <class name="variousConcept.AddCustomer">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:variousConcept.AddCustomer@593aaf41]" started-at="2023-12-30T18:40:10 EST" name="Setup" finished-at="2023-12-30T18:40:13 EST" duration-ms="3250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="AddCustomer()[pri:0, instance:variousConcept.AddCustomer@593aaf41]" started-at="2023-12-30T18:40:13 EST" name="AddCustomer" finished-at="2023-12-30T18:40:20 EST" duration-ms="7013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCustomer -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:variousConcept.AddCustomer@593aaf41]" started-at="2023-12-30T18:40:20 EST" name="closeBrowser" finished-at="2023-12-30T18:40:23 EST" duration-ms="3271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- variousConcept.AddCustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
